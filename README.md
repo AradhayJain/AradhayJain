@@ -1,72 +1,88 @@
-## 👋 Hey there! I'm Aradhay Jain
-
-Welcome to my GitHub profile! I'm a passionate full-stack developer, problem solver, and creator who loves building scalable products and exploring cutting-edge technologies.
-
----
-
-### 💻 Tech Stack & Skills
-
-- **Languages:**  
-  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-- **Frontend:**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-- **Backend:**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-
-- **Database & Tools:**  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-  ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?logo=data:image/svg+xml;base64,...)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
-- **Other Tools:**  
-  ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?logo=websocket&logoColor=white)  
-  ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+<h1 align="center">Hi there, I'm Aradhay Jain 👋</h1>
+<p align="center">💻 Full-stack Developer • 🧠 AI Enthusiast • 🚀 Product Builder</p>
 
 ---
 
-### 🚀 Favorite Products I've Built
+## 🔧 Tech Stack & Tools
 
-#### 🧠 AI-powered Financial Dashboard
-A smart budgeting platform that uses AI to:
-- Auto-generate budget insights
-- Visualize daily spend with graphs
-- Provide badges and savings suggestions
-- Allow real-time group chat with WebSockets  
-**Stack:** React, Node.js, MongoDB, WebSockets, Tailwind
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### 🔍 Demand Spike Detector (RedAlert)
-Tool for sellers to identify sudden spikes in product demand using:
-- Real-time data fetch
-- Filter, export, and visualize suggestions
-**Stack:** React, Express, Custom Backend, TailwindCSS
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### 🛒 Smart Basket
-An intelligent product search and cart builder that:
-- Shows all matching results
-- Helps users build optimized carts  
-**Stack:** React, Context API, Tailwind
+**Backend & APIs**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
 
-#### 📊 Metabase Dashboards with Custom Filters
-Integrated dynamic filters passed via JS parameters for business insights  
-**Stack:** Metabase, SQL, JS, Postgres
+**Databases & BI**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge)
 
----
-
-### 📫 Connect With Me
-
-- Email: aradhay@example.com  
-- LinkedIn: [linkedin.com/in/aradhayjain](https://linkedin.com/in/aradhayjain)  
-- Portfolio: _Coming soon..._
+**Other Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+## 🚀 Projects I’m Proud Of
 
+### 🧠 AI-Powered Financial Dashboard
+A smart budgeting platform that:
+- 🔍 Tracks expenses & income with AI-generated insights
+- 📈 Visualizes trends with dynamic graphs
+- 🏅 Awards badges for good financial behavior
+- 🧑‍🤝‍🧑 Supports group chats with WebSocket integration  
+**Tech:** React • Node.js • MongoDB • Tailwind • WebSockets
+
+---
+
+### 📊 RedAlert – Demand Spike Detector
+A tool for sellers to:
+- 🛎️ Detect product demand spikes
+- 📤 Export and analyze real-time suggestions
+- 🧹 Filter and organize inventory issues  
+**Tech:** React • Express • Custom Backend • TailwindCSS
+
+---
+
+### 🛒 SmartBasket
+A smart cart builder that:
+- 🔍 Finds all matching results in one go
+- 🧠 Helps users create optimized shopping baskets  
+**Tech:** React • Context API • TailwindCSS
+
+---
+
+### 📈 Dynamic Metabase Dashboard Integration
+- 🎯 Sends user-level filters via JavaScript
+- 📂 Enables tailored BI experiences  
+**Tech:** SQL • Metabase • JavaScript
+
+---
+
+## 🏆 What I Do Best
+
+- ⚙️ Architecting full-stack systems from scratch
+- 🧩 Solving complex DSA problems with C++
+- 🌐 Creating blazing fast, responsive UI with React + Tailwind
+- 🤝 Working in real-time systems using WebSockets
+- 📊 Building dashboards and tools that deliver insights, not just data
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: aradhay@example.com *(replace with real one)*
+- 💼 LinkedIn: [linkedin.com/in/aradhayjain](https://linkedin.com/in/aradhayjain)
+- 🌐 Portfolio: *Coming Soon*
+
+---
+
+<p align="center"><i>“First, solve the problem. Then, write the code.”</i><br/>— John Johnson</p>
