@@ -79,8 +79,8 @@ A smart cart builder that:
 
 ## 📫 Let's Connect
 
-- 📧 Email: aradhay@example.com *(replace with real one)*
-- 💼 LinkedIn: [linkedin.com/in/aradhayjain](https://linkedin.com/in/aradhayjain)
+- 📧 Email: aradhayjain2006@gmail.com *(replace with real one)*
+- 💼 LinkedIn: [[linkedin.com/in/aradhayjain](https://linkedin.com/in/aradhayjain)](https://www.linkedin.com/in/aradhayjain2006/)
 - 🌐 Portfolio: *Coming Soon*
 
 ---
