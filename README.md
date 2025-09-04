@@ -31,57 +31,37 @@
 
 ---
 
-## 🚀 Projects I’m Proud Of
+## 📊 GitHub Stats
 
-### 🧠 AI-Powered Financial Dashboard
-A smart budgeting platform that:
-- 🔍 Tracks expenses & income with AI-generated insights
-- 📈 Visualizes trends with dynamic graphs
-- 🏅 Awards badges for good financial behavior
-- 🧑‍🤝‍🧑 Supports group chats with WebSocket integration  
-**Tech:** React • Node.js • MongoDB • Tailwind • WebSockets
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AradhayJain&show_icons=true&theme=tokyonight" alt="Aradhay's GitHub stats" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AradhayJain&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-### 📊 RedAlert – Demand Spike Detector
-A tool for sellers to:
-- 🛎️ Detect product demand spikes
-- 📤 Export and analyze real-time suggestions
-- 🧹 Filter and organize inventory issues  
-**Tech:** React • Express • Custom Backend • TailwindCSS
-
----
-
-### 🛒 SmartBasket
-A smart cart builder that:
-- 🔍 Finds all matching results in one go
-- 🧠 Helps users create optimized shopping baskets  
-**Tech:** React • Context API • TailwindCSS
-
----
-
-### 📈 Dynamic Metabase Dashboard Integration
-- 🎯 Sends user-level filters via JavaScript
-- 📂 Enables tailored BI experiences  
-**Tech:** SQL • Metabase • JavaScript
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradhayJain&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 What I Do Best
 
-- ⚙️ Architecting full-stack systems from scratch
-- 🧩 Solving complex DSA problems with C++
-- 🌐 Creating blazing fast, responsive UI with React + Tailwind
-- 🤝 Working in real-time systems using WebSockets
-- 📊 Building dashboards and tools that deliver insights, not just data
+- ⚙️ Architecting full-stack systems from scratch  
+- 🧩 Solving complex DSA problems with C++  
+- 🌐 Creating blazing fast, responsive UI with React + Tailwind  
+- 🤝 Working in real-time systems using WebSockets  
+- 📊 Building dashboards and tools that deliver insights, not just data  
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: aradhayjain2006@gmail.com *(replace with real one)*
-- 💼 LinkedIn: [[linkedin.com/in/aradhayjain](https://linkedin.com/in/aradhayjain)](https://www.linkedin.com/in/aradhayjain2006/)
-- 🌐 Portfolio: *Coming Soon*
+- 📧 Email: aradhayjain2006@gmail.com *(replace with real one)*  
+- 💼 LinkedIn: [[linkedin.com/in/aradhayjain](https://linkedin.com/in/aradhayjain2006/)](https://www.linkedin.com/in/aradhayjain2006/)  
+- 🌐 Portfolio: *Coming Soon*  
 
 ---
 
