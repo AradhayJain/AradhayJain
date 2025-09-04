@@ -36,11 +36,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AradhayJain&show_icons=true&theme=tokyonight" alt="Aradhay's GitHub stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AradhayJain&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradhayJain&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
