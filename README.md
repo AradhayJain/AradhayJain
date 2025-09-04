@@ -59,8 +59,8 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: aradhayjain2006@gmail.com *(replace with real one)*  
-- 💼 LinkedIn: [[linkedin.com/in/aradhayjain](https://linkedin.com/in/aradhayjain2006/)](https://www.linkedin.com/in/aradhayjain2006/)  
+- 📧 Email: aradhayjain2006@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/aradhayjain2006/
 - 🌐 Portfolio: *Coming Soon*  
 
 ---
