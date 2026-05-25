@@ -69,9 +69,9 @@ const aradhay = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AradhayJain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="Aradhay's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AradhayJain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradhayJain&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradhayJain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
 
 </div>
 
